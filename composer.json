@@ -1,19 +1,16 @@
 {
-    "name": "maping777/weixin",
-    "description": "基于微信官方文档封装",
-    "license": "MIT",
-    "type": "library",
-    "authors": [
-        {
-            "name": "maping777",
-            "email": "1554995120@163.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {},
+    "name": "zhouyao/weixin",
     "autoload": {
         "psr-4": {
-          "MaPing\\WeChat\\": "src/"
+            "Zhouyao\\Weixin\\": "src/"
         }
-    }
+    },
+    
+    "authors": [
+        {
+            "name": "zhouyao",
+            "email": "18571906663@163.com"
+        }
+    ],
+    "require": {}
 }
